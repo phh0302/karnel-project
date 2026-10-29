@@ -3,7 +3,7 @@
 | Mục | Nội dung |
 |---|---|
 | Dự án | Karnel Travel Guide (Aptech eProject) |
-| Khách hàng | Karnel Travels, công ty du lịch và lữ hành |
+| Khách hàng | Karnel Travels, công ty du lịch |
 | URL | `http://www.Karneltravelguide.com` |
 | Phiên bản | 1.0 (bản nháp) · 29/10/2026 |
 | Nhóm | Batch: ______ · Group: ______ |
@@ -14,7 +14,7 @@
 
 ## 1. Bối cảnh bài toán
 
-Karnel Travels là công ty du lịch và lữ hành. Họ cung cấp dịch vụ di chuyển giữa các thành phố và tới các điểm du lịch, đồng thời đặt chỗ ở khách sạn. Khách hàng cần xem và đặt được tour cũng như dịch vụ di chuyển qua mạng.
+Karnel Travels là công ty du lịch. Họ cung cấp dịch vụ di chuyển giữa các thành phố và tới các điểm du lịch, đồng thời đặt chỗ ở khách sạn. Khách hàng cần xem và đặt được tour cũng như dịch vụ di chuyển qua mạng.
 
 Công ty muốn có một **website gắn với tên miền riêng** để thu hút khách hàng. Website cung cấp thông tin về điểm du lịch, phương tiện di chuyển, khách sạn, nhà hàng và resort trong nước, và cho phép khách liên hệ đặt dịch vụ hoặc gửi góp ý.
 
